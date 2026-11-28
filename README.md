@@ -7,10 +7,10 @@ La sesión está pensada para **45 minutos + 15 minutos de preguntas**. Las diap
 ## Material del taller
 
 - [Diapositivas y guion](slides.md): las notas del ponente están en comentarios HTML junto a cada diapositiva; también se ven en el modo presentador.
-- **Versión web prevista:** <https://CrisKrus.github.io/notion-from-zero-to-hero-talk/>.
-- **Ejercicios:** están en una página de Notion, pendiente de enlazar e incorporar a este repositorio. Las diapositivas también incluyen propuestas para practicar.
+- **Versión web:** <https://CrisKrus.github.io/notion-from-zero-to-hero-talk/>.
+- [Ejercicios](ejercicios/README.md): cinco retos progresivos con enunciados, comprobaciones, pistas, soluciones orientativas y bonus. Son una copia estática de [los originales en Notion](https://www.notion.so/41adacc86679802db228efdd0b9b6402), consultable sin acceso al workspace; las pistas y soluciones se pueden desplegar en GitHub.
 
-Al incorporar más contenido, usar `ejercicios/` para enunciados y soluciones, `material/` para recursos complementarios y `public/` para archivos que deban acompañar a la web, como imágenes o un PDF descargable. Estas carpetas se crearán cuando haya contenido real. Si el guion crece, se puede separar en `guion.md`.
+Los ejercicios están en `ejercicios/`. Al incorporar más contenido, usar `material/` para recursos complementarios y `public/` para archivos que deban acompañar a la web, como imágenes o un PDF descargable. Estas dos últimas carpetas se crearán cuando haya contenido real. Si el guion crece, se puede separar en `guion.md`.
 
 ## Ejecutar y presentar
 

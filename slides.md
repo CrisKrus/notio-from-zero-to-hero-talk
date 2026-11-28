@@ -282,10 +282,10 @@ layout: center
 4. 🔗 Conectar proyectos y tareas.
 5. 🦸 Usar botón, gráfico y plantilla.
 
-**Enunciados, pistas y soluciones en Notion.**
+[Enunciados, pistas y soluciones en el repositorio](https://github.com/CrisKrus/notion-from-zero-to-hero-talk/tree/main/ejercicios).
 
 <!--
-41:00–43:00. Abrir página de materiales en Notion. Explicar que los ejercicios se hacen después, no ahora.
+41:00–43:00. Abrir los ejercicios en el repositorio. Explicar que los ejercicios se hacen después, no ahora.
 -->
 
 ---
