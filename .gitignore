@@ -1,0 +1,26 @@
+# Dependencias y cachés locales
+node_modules/
+.pnpm-store/
+.vite/
+.cache/
+
+# HTML generado: GitHub Actions lo publica como artefacto de Pages
+/dist/
+
+# PDF local por defecto. Los PDF de material sí se pueden versionar.
+/slides.pdf
+
+# Sistema operativo y archivos temporales
+.DS_Store
+._*
+Thumbs.db
+*.log
+*.swp
+*.swo
+
+# Configuración local y secretos (se permiten plantillas sin credenciales)
+.env
+.env.*
+!.env.example
+!.env.*.example
+.idea/
