@@ -12,6 +12,12 @@ La sesión está pensada para **45 minutos + 15 minutos de preguntas**. Las diap
 
 Los ejercicios están en `ejercicios/`. Al incorporar más contenido, usar `material/` para recursos complementarios y `public/` para archivos que deban acompañar a la web, como imágenes o un PDF descargable. Estas dos últimas carpetas se crearán cuando haya contenido real. Si el guion crece, se puede separar en `guion.md`.
 
+## Ediciones de la charla
+
+- [2026-11-20 — Primera edición](https://github.com/CrisKrus/notion-from-zero-to-hero-talk/releases/tag/2026-11-20): instantánea del material de esa edición, con las diapositivas, el guion y los ejercicios incorporados al repositorio.
+
+Para consultar una versión fija o descargar sus fuentes, utiliza la release correspondiente. La web de GitHub Pages sigue `main` y puede cambiar con futuras actualizaciones.
+
 ## Ejecutar y presentar
 
 Requisitos: **Node.js 24 o superior** y **pnpm 11.5.1** (versión fijada en `package.json`).
