@@ -10,6 +10,7 @@
   "scripts": {
     "dev": "slidev --open",
     "build": "slidev build",
+    "build:pages": "slidev build --base /notion-from-zero-to-hero-talk/ --router-mode hash",
     "export": "slidev export"
   },
   "devDependencies": {
